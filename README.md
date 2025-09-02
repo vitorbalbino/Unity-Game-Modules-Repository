@@ -1,6 +1,7 @@
 # Unity Game Modules Repository
 A collection of reusable, self-contained modules and systems for Unity games.
 
+[See the High Level Concept Documentation.]https://docs.google.com/document/d/1cZ1B_73NoxIQ4fYr8Y_JvYuWCyq_NTyBoMLYthzIOBw/edit?usp=sharing)
 
 ---
 ### Author: Vitor Balbino
